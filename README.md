@@ -11,7 +11,7 @@ A renderer developed as part of the Computer Graphics Final Project. This projec
 - **Shading Model Comparison**  
   Implemented and evaluated multiple shading model to compare visual results.
 
-### 💡 Lighting & Shadows
+### Lighting & Shadows
 - **Segment Light Sampling**  
   Custom light sampling for linear/area light sources.
 
