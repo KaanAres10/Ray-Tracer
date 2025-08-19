@@ -1,6 +1,6 @@
 # Computer Graphics Final Project
 
-A renderer developed as part of the Computer Graphics Final Project. This project focuses on implementing key rendering techniques to simulate realistic lighting and post-processing effects.
+A ray-traced renderer developed as part of the Computer Graphics Final Project. This project focuses on implementing key rendering techniques to simulate realistic lighting and post-processing effects.
 
 ## Features Implemented
 
