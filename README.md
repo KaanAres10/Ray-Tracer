@@ -1,5 +1,3 @@
-<h1 align="center">Computer Graphics Final Project - Ray Traced Renderer</h1>
-
 <p align="center">
 A <b>ray-traced renderer</b> developed as part of the Computer Graphics Final Project.<br/>
 The project explores <b>rendering techniques</b>, <b>lighting models</b>, <b>shadows</b>, and <b>post-processing effects</b>.
