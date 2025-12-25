@@ -1,4 +1,4 @@
-<h1 align="center">Computer Graphics Final Project - Ray Traced Renderer</h1>
+<h1 align="center">Ray Traced Renderer</h1>
 
 <p align="center">
 A <b>ray-traced renderer</b> developed as part of the Computer Graphics Final Project.<br/>
